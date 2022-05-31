@@ -1,9 +1,9 @@
 <?php
 
-$dbServerName = "sql203.epizy.com";
-$dbUserName = "epiz_31854380";
-$dbPassword = "t0TU677VDDE1";
-$dbName = "epiz_31854380_shopstore";
+$dbServerName = "localhost";
+$dbUserName = "id19023439_root";
+$dbPassword = "!5StGSv0P7<}9vYa";
+$dbName = "id19023439_store";
 
 $conn = mysqli_connect($dbServerName, $dbUserName, $dbPassword, $dbName);
 ?>
